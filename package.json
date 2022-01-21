@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsqr": "^1.4.0",
+    "mqtt": "^4.3.4",
+    "socket.io": "^4.4.1",
+    "upng-js": "^2.1.0"
+  }
+}
